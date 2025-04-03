@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Data Dashboard",
+    "description": "Interactive analytics platform with customizable widgets",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["React", "D3.js", "Tailwind"],
+    "size": "large-featured",
+    "url": "https://example.com/data-dashboard"
+  },
+  {
+    "id": 2,
+    "title": "Mobile App",
+    "description": "Cross-platform application for productivity",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["React Native", "Firebase"],
+    "size": "small-square",
+    "url": "https://example.com/mobile-app"
+  },
+  {
+    "id": 3,
+    "title": "E-commerce Platform",
+    "description": "Full-featured online store with AI product recommendations",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["NextJS", "Stripe", "MongoDB"],
+    "size": "medium-tall",
+    "url": "https://example.com/e-commerce-platform"
+  },
+  {
+    "id": 4,
+    "title": "AR Experience",
+    "description": "Augmented reality application for educational purposes",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["Unity", "ARKit", "3D Modeling"],
+    "size": "small-wide",
+    "url": "https://example.com/ar-experience"
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning Tool",
+    "description": "Interactive visualization of complex ML algorithms",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["Python", "TensorFlow", "D3.js"],
+    "size": "small-square",
+    "url": "https://example.com/machine-learning-tool"
+  },
+  {
+    "id": 6,
+    "title": "Enhanced Data Dashboard",
+    "description": "Advanced analytics with improved visualizations",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["React", "D3.js", "Tailwind"],
+    "size": "medium-tall",
+    "url": "https://example.com/data-dashboard-1"
+  },
+  {
+    "id": 7,
+    "title": "AR Experience Plus",
+    "description": "Next-gen AR application with enhanced features",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["Unity", "ARKit", "3D Modeling"],
+    "size": "small-wide",
+    "url": "https://example.com/ar-experience-1"
+  },
+  {
+    "id": 8,
+    "title": "ML Visualization Pro",
+    "description": "Interactive ML model exploration and comparison",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["Python", "TensorFlow", "D3.js"],
+    "size": "small-wide",
+    "url": "https://example.com/machine-learning-tool-1"
+  },
+  {
+    "id": 9,
+    "title": "Data Insights Dashboard",
+    "description": "Comprehensive data analytics with real-time updates",
+    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+    "tags": ["React", "D3.js", "Tailwind"],
+    "size": "large-featured",
+    "url": "https://example.com/data-dashboard-2"
+  }
+]
