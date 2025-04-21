@@ -1,12 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Data Dashboard",
-    "description": "Interactive analytics platform with customizable widgets",
-    "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
-    "tags": ["React", "D3.js", "Tailwind"],
+    "title": "Wtn App",
+    "description": "Inspired by the movie Inside Out, WTN is an emotional sharing app designed to help partners stay emotionally connected.
+Each user shares their current feelings, visualized through a unique, interactive bubble that reflects their mood in real time.
+WTN turns emotional awareness into a daily habit, fostering deeper connection in the simplest, most meaningful way.",
+    "image": "https://play-lh.googleusercontent.com/LdHzKiH6g1YLNxgbcXnQl2r_Il0GE_3hFAtbokiso67QkmiRFNMokkmRHplR6waFEgQ=w5120-h2880-rw",
+    "tags": ["Android", "UIUX", "Animation"],
     "size": "large-featured",
-    "url": "https://example.com/data-dashboard"
+    "url": "https://play.google.com/store/apps/details?id=com.ismail.wtn"
   },
   {
     "id": 2,
